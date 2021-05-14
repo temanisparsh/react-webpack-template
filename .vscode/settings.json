@@ -1,0 +1,18 @@
+{
+	"eslint.validate": ["javascript", "javascriptreact"],
+	"[javascript]": {
+		"editor.codeActionsOnSave": {
+			"source.fixAll.eslint": true
+		}
+	},
+	"[javascriptreact]": {
+		"editor.codeActionsOnSave": {
+			"source.fixAll.eslint": true
+		}
+	},
+	"editor.formatOnSave": true,
+	"editor.renderWhitespace": "boundary",
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": true
+	}
+}
